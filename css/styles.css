@@ -2932,6 +2932,10 @@ img.u-pull-left {
     left         : 0;
 }
 
+.logged-in .s-header {
+    top: 32px;
+}
+
 .header-mobile {
     z-index          : 101;
     display          : none;
